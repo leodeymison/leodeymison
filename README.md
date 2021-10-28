@@ -1,3 +1,4 @@
+<strong><h1>About me:</h1></strong>
 - 👋 Hi, I’m <strong>@leodeymison</strong>
 - 👀 I’m interested in <strong>Nodejs</strong> 
 - 🌱 I’m currently learning <strong>Nodejs</strong> and <strong>Python</strong>
@@ -6,7 +7,8 @@
   - <strong>Phone:</strong> +55 63 99108-8650 <br>
   - <strong>Gmail:</strong> leodeymisonbasquete@gmail.com
 
-<strong>Professional experiences:</strong>
+<br>
+<strong><h1>Professional experiences:</h1></strong>
 
 - Nodejs
 - VueJs
