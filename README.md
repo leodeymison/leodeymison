@@ -6,4 +6,14 @@
   - <strong>Phone:</strong> +55 63 99108-8650 <br>
   - <strong>Gmail:</strong> leodeymisonbasquete@gmail.com
 
+<strong>Professional experiences:</strong>
 
+- Nodejs
+- VueJs
+- APi Rest
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
+- Designer Patterns
+- Python
