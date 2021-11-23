@@ -15,7 +15,13 @@
 - APi Rest
 - HTML
 - CSS
+- SCSS
 - Bootstrap
 - JavaScript
 - Designer Patterns
 - Python
+- MVC
+- GIT
+- AWS C3
+- APACHE
+- NGINX
