@@ -25,3 +25,4 @@
 - AWS C3
 - APACHE
 - NGINX
+- MySQL
