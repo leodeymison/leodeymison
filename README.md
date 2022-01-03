@@ -8,25 +8,37 @@
 
 <br>
 <strong><h1>Habilidades:</h1></strong>
-
-- Nodejs
-- VueJs
-- APi Rest
-- HTML
-- CSS
-- SCSS
-- Bootstrap
-- JavaScript
-- Designer Patterns
-- Python (BÁSICO)
-- MVC
-- GIT
-- AWS C3
-- APACHE
-- NGINX
-- MySQL
-- KNEXT
-- JWT
-- JEST
-- THREEJS
-- TYPESCRIPT
+<ul>
+  FRONTEND
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>SCSS</li>
+  <li>Bootstrap</li>
+  <li>THREEJS</li>
+  <li>JavaScript</li>
+  <li>VueJs</li>
+  <li>Designer Patterns</li>
+</ul>
+<ul>
+  BACKEND
+  <li>Nodejs</li>
+  <li>APi Rest</li>
+  <li>Designer Patterns</li>
+  <li>Bootstrap</li>
+  <li>JavaScript</li>
+  <li>Python (BÁSICO)</li>
+  <li>AWS C3</li>
+  <li>MySQL</li>
+  <li>MongoDB</li>
+  <li>KNEXT</li>
+  <li>JWT</li>
+  <li>JEST</li>
+  <li>TYPESCRIPT</li>
+  <li>MVC</li>
+</ul>
+<ul>
+  GERAL
+  <li>GIT</li>
+  <li>APACHE</li>
+  <li>NGINX</li>
+</ul>
