@@ -19,6 +19,7 @@
   <li>VueJs</li>
   <li>Designer Patterns</li>
 </ul>
+<br>
 <ul>
   <strong>BACKEND</strong>
   <li>Nodejs</li>
@@ -36,6 +37,7 @@
   <li>TYPESCRIPT</li>
   <li>MVC</li>
 </ul>
+<br>
 <ul>
   <strong>GERAL</strong>
   <li>GIT</li>
