@@ -18,7 +18,7 @@
 - Bootstrap
 - JavaScript
 - Designer Patterns
-- Python
+- Python (BÁSICO)
 - MVC
 - GIT
 - AWS C3
@@ -26,3 +26,7 @@
 - NGINX
 - MySQL
 - KNEXT
+- JWT
+- JEST
+- THREEJS
+- TYPESCRIPT
