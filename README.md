@@ -25,7 +25,6 @@
   <li>Nodejs</li>
   <li>APi Rest</li>
   <li>Designer Patterns</li>
-  <li>Bootstrap</li>
   <li>JavaScript</li>
   <li>Python (BÁSICO)</li>
   <li>AWS C3</li>
