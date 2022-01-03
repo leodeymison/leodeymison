@@ -1,10 +1,10 @@
-<strong><h1>About me:</h1></strong>
-- 👋 Hi, I’m <strong>@leodeymison</strong>
-- 👀 I’m interested in <strong>Nodejs</strong> 
-- 💞️ I'm looking to collaborate on creating clean code with high-level architectures, using <strong>designer patterns</strong> and other
-- 📫 How to reach me: <br>
-  - <strong>Phone:</strong> +55 63 99108-8650 <br>
-  - <strong>Gmail:</strong> leodeymisonbasquete@gmail.com
+<strong><h1>Sobre LEODEYMISON:</h1></strong>
+- 👋 olá, me chamo <strong>@leodeymison</strong>.
+- 👀 Sou programador <strong>Fullstack</strong> e Brasileiro.
+- 💞️ Estou procurando colaborar na criação de código limpo com arquiteturas de alto nível, usando designer patterns
+- 📫 Como chegar até mim:<br>
+  - <strong>Telefone:</strong> +55 63 99108-8650 <br>
+  - <strong>E-mail:</strong> leodeymisonbasquete@gmail.com
 
 <br>
 <strong><h1>Professional experiences:</h1></strong>
