@@ -9,7 +9,7 @@
 <br>
 <strong><h1>Habilidades:</h1></strong>
 <ul>
-  FRONTEND
+  <strong>FRONTEND</strong>
   <li>HTML</li>
   <li>CSS</li>
   <li>SCSS</li>
@@ -20,7 +20,7 @@
   <li>Designer Patterns</li>
 </ul>
 <ul>
-  BACKEND
+  <strong>BACKEND</strong>
   <li>Nodejs</li>
   <li>APi Rest</li>
   <li>Designer Patterns</li>
@@ -37,7 +37,7 @@
   <li>MVC</li>
 </ul>
 <ul>
-  GERAL
+  <strong>GERAL</strong>
   <li>GIT</li>
   <li>APACHE</li>
   <li>NGINX</li>
