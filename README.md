@@ -18,6 +18,7 @@
   <li>JavaScript</li>
   <li>VueJs</li>
   <li>Designer Patterns</li>
+  <li>Socket.io</li>
 </ul>
 <br>
 <ul>
@@ -35,6 +36,7 @@
   <li>JEST</li>
   <li>TYPESCRIPT</li>
   <li>MVC</li>
+  <li>Socket.io</li>
 </ul>
 <br>
 <ul>
