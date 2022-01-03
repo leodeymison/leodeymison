@@ -7,7 +7,7 @@
   - <strong>E-mail:</strong> leodeymisonbasquete@gmail.com
 
 <br>
-<strong><h1>Professional experiences:</h1></strong>
+<strong><h1>Habilidades:</h1></strong>
 
 - Nodejs
 - VueJs
