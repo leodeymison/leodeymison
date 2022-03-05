@@ -14,7 +14,7 @@
  </div>
 
 <br>
-<strong><h1>Habilidades:</h1></strong>
+<strong><h1>Habilidades para web:</h1></strong>
 <ul>
   <strong>FRONTEND</strong>
   <li>HTML</li>
