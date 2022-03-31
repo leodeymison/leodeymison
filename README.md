@@ -142,6 +142,11 @@
  </div>
 <br>
 
+# Ciência de dados
+
+<p>Regressão linear simples (matemática e code)</p>
+<p>Regressão linear multipla (matemática e code)</p>
+
 
 
 # Ferramentas
