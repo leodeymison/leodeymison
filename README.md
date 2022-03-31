@@ -143,8 +143,8 @@
 <br>
 
 # Ciência de dados
-
-#### Regressão linear (matemática e code)
+#### Coeficiente de Correlacao de Pearson (Matemática e Código em JS)
+#### Regressão linear (Matemática e Code em JS)
 - <p>Simples</p>
 - <p>Multipla</p>
 
