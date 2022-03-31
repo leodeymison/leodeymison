@@ -143,10 +143,11 @@
 <br>
 
 # Ciência de dados
-#### Coeficiente de Correlacao de Pearson (Matemática e Código em JS)
-#### Regressão linear (Matemática e Code em JS)
-- <p>Simples</p>
-- <p>Multipla</p>
+#### Coeficiente de Correlacao de Pearson
+- <a href="https://github.com/leodeymison/Coeficiente-de-correlacao-de-Pearson">Link</a>
+#### Regressão linear
+- <p>Simples</p>: <a href="https://github.com/leodeymison/regressao-linear-simples">Link</a>
+- <p>Multipla</p>: <a href="https://github.com/leodeymison/modelo-de-regressao-linear-multipla">Link</a>
 
 
 
