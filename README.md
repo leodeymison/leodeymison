@@ -144,8 +144,9 @@
 
 # Ciência de dados
 
-<p>Regressão linear simples (matemática e code)</p>
-<p>Regressão linear multipla (matemática e code)</p>
+#### Regressão linear (matemática e code)
+- <p>Simples</p>
+- <p>Multipla</p>
 
 
 
