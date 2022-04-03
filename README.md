@@ -108,35 +108,27 @@
         Sequelize
     </p>
     <p>
-        <img align="center" title="Sequelize" alt="Sequelize" height="50" width="50" src="https://th.bing.com/th/id/OIP.33CwBYkmnMfpA9Djup22JwHaHa?pid=ImgDet&rs=1">
+        <img align="center" title="React" alt="React" height="50" width="50" src="https://th.bing.com/th/id/OIP.33CwBYkmnMfpA9Djup22JwHaHa?pid=ImgDet&rs=1">
       React
     </p>
-      <p>
-        <img align="center" title="Sequelize" alt="Sequelize" height="50" width="50" src="https://th.bing.com/th/id/R.4cabe54de36ab64a75b3e7950791ebbe?rik=O%2fQV78LjrxMZAQ&riu=http%3a%2f%2fwww.blog.plint-sites.nl%2fwordpress%2fwp-content%2fuploads%2f2016%2f07%2freact-router.png&ehk=TwaiwR0BI%2f6o9ZtnEwLtqZ2wAYf9FFT%2bxSM0vT6XQIA%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1">
-      React-Routers
-    </p>
   <p>
-        <img align="center" title="Sequelize" alt="Sequelize" height="50" width="50" src="https://www.ackee.cz/blog/en/wp-content/uploads/2018/11/react_hooks_web-min.png">
-      React-Hooks
-    </p>
-  <p>
-        <img align="center" title="Sequelize" alt="Sequelize" height="50" width="50" src="https://i.ytimg.com/vi/PhuozncW0fM/maxresdefault.jpg">
+        <img align="center" title="Apollo client" alt="Apollo client" height="50" width="50" src="https://i.ytimg.com/vi/PhuozncW0fM/maxresdefault.jpg">
       Apollo client
     </p>
   <p>
-        <img align="center" title="Sequelize" alt="Sequelize" height="50" width="50" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png">
+        <img align="center" title="Style-components" alt="Style-components" height="50" width="50" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png">
       Style-components
     </p>
   <p>
-        <img align="center" title="Sequelize" alt="Sequelize" height="50" width="50" src="https://i.ytimg.com/vi/f6fEezaW5Lo/maxresdefault.jpg">
+        <img align="center" title="Service Worker" alt="Service Worker" height="50" width="50" src="https://i.ytimg.com/vi/f6fEezaW5Lo/maxresdefault.jpg">
       Service Worker
     </p>
   <p>
-        <img align="center" title="Sequelize" alt="Sequelize" height="50" width="50" src="https://th.bing.com/th/id/OIP.znUv5KtzJcpnqvNDIjszJQHaHa?pid=ImgDet&rs=1">
+        <img align="center" title="GraphQL" alt="GraphQL" height="50" width="50" src="https://th.bing.com/th/id/OIP.znUv5KtzJcpnqvNDIjszJQHaHa?pid=ImgDet&rs=1">
       GraphQL
     </p>
   <p>
-        <img align="center" title="Sequelize" alt="Sequelize" height="50" width="50" src="https://raw.githubusercontent.com/MichalLytek/typegraphql-nestjs/master/typegraphql-logo.png">
+        <img align="center" title="TypeGraphQL" alt="TypeGraphQL" height="50" width="50" src="https://raw.githubusercontent.com/MichalLytek/typegraphql-nestjs/master/typegraphql-logo.png">
       TypeGraphQL
     </p>
  </div>
