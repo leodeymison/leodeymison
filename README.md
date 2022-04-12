@@ -1,6 +1,6 @@
 <strong><h1>Sobre LEODEYMISON:</h1></strong>
 - 👋 olá, me chamo <strong>@leodeymison</strong>.
-- 👀 Sou programador <strong>Fullstack pleno/sênior</strong> e aspirante a Cientista de dados.
+- 👀 Sou programador <strong>Fullstack Pleno/Sênior</strong> e aspirante a Cientista de dados.
 - 💞️ Estou procurando colaborar na criação de códigos limpos com arquiteturas de alto nível, usando designer patterns e S.O.L.I.D
 - 📫 Como chegar até mim:<br>
   - <strong>Telefone:</strong> +55 63 99108-8650 <br>
