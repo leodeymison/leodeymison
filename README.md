@@ -31,13 +31,10 @@
 <br>
 
 # Ciência de dados
-#### Coeficiente de Correlacao de Pearson
-- <p><a href="https://github.com/leodeymison/Coeficiente-de-correlacao-de-Pearson">Link</a></p>
-#### Regressão linear
-- <p>Simples: <a href="https://github.com/leodeymison/regressao-linear-simples">Link</a></p>
-- <p>Multipla: <a href="https://github.com/leodeymison/modelo-de-regressao-linear-multipla">Link</a></p>
+#### ⚫ Coeficiente de Correlacao de Pearson - <a href="https://github.com/leodeymison/Coeficiente-de-correlacao-de-Pearson">Link</a> <br />
+#### ⚫ Regressão linear - <a href="https://github.com/leodeymison/regressao-linear-simples">Simples</a>; <a href="https://github.com/leodeymison/modelo-de-regressao-linear-multipla">Multipla</a>
 
-
+<br />
 
 # Ferramentas
 <div style="display:flex;">
