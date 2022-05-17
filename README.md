@@ -5,6 +5,8 @@
 - 📫 Como chegar até mim:<br>
   - <strong>Telefone:</strong> +55 63 99108-8650 <br>
   - <strong>E-mail:</strong> leodeymisonbasquete@gmail.com
+  - <strong>LinkedIn:</strong> leodeymison
+  - <strong>Instagram:</strong> leodeymison_alcantara
 
 <br>
 <div>
