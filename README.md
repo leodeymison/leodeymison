@@ -1,5 +1,5 @@
 <strong><h1>Sobre LEODEYMISON:</h1></strong>
-- Meu site <a href="https://www.leodeymison.com">https://www.leodeymison.com</a>
+- Meu site <a href="https://leodeymison-a.netlify.app/">https://leodeymison-a.netlify.app/</a>
 - 👋 olá, me chamo <strong>@leodeymison</strong>.
 - 👀 Sou programador <strong>Fullstack Pleno/Sênior</strong> e aspirante a Cientista de dados.
 - 💞️ Estou procurando colaborar na criação de códigos limpos com arquiteturas de alto nível, usando designer patterns e S.O.L.I.D
